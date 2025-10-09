@@ -9,3 +9,8 @@ We compare two supervised learning algorithms, **Random Forest** and **Logistic 
 **Accuracy, precision, recall, F1-score**, and **ROC-AUC** are some of the metrics we use to compare their predictive performance. 
 
 Our results show that interpretability and predictive power are traded off, with Random Forest demonstrating superior predictive performance and Logistic Regression offering clear insights into attrition factors. The findings provide HR departments with practical suggestions for anticipating and mitigating retention risks. 
+
+
+**Linear_regression.ipynb** - Contains the code for the Logistic Regression model.
+
+**randomForestForecast.ipynb** - Contains the code for the Random Forest model. 
